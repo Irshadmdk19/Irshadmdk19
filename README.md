@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/irshadmdk" target="blank"><img src="https://img.shields.io/twitter/follow/irshadmdk?logo=twitter&style=for-the-badge" alt="irshadmdk" /></a> </p>
 
-- 🌱 I’m currently learning **Backend(NodeJs, ExpressJs, MongoDB)**
+- 🌱 I’m currently learning **Frontend**
 
 - 💬 Ask me about **Java, JavaScript**
 
