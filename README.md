@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/irshadmdk" target="blank"><img src="https://img.shields.io/twitter/follow/irshadmdk?logo=twitter&style=for-the-badge" alt="irshadmdk" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development(React)**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, JavaScript**
 
